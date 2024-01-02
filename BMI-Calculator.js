@@ -1,3 +1,5 @@
+// i was write this line for check git status in the terminal
+
 function bmiCalculator(weight,height){
   var weight = prompt("What is your Weight.");
   var height = prompt("What is your Height in metre.");
